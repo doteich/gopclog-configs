@@ -58,7 +58,7 @@
     "methodConfig": {
         "subInterval": 1,
         "name": "My TestLogger",
-        "targetURL": "https://",
+        "targetURL": "https://host.docker.internal:3001/log",
         "metricsEnabled": true,
         "backup": true,
         "description": null
